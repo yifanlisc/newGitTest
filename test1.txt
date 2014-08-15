@@ -1,1 +1,2 @@
+This is from new directory
 This is test1
